@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+Title: Namjun's Blog 
 description: Home Page
 hide: true
 ---
